@@ -6,7 +6,7 @@ date:2071-11-17
 author:wxl
 header-img:img/post-bg-2015.jpg
 catalog:true
-tags:.net
+tags:--.net
 ---
 
 ## hey
