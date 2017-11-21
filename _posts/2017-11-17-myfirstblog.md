@@ -7,9 +7,9 @@ author:   wxl
 header-img:   img/post-bg-2015.jpg
 catalog:    true
 tags:
-  -.net
+  - .net
 ---
 
 ## hey
->这是我的第一篇博客
+>这是我的第二篇博客
 看看吧
